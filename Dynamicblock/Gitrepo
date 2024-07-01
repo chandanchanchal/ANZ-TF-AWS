@@ -1,0 +1,2 @@
+git clone https://github.com/hashicorp/learn-terraform-aws-assume-role-iam.git
+git clone https://github.com/hashicorp/learn-terraform-aws-assume-role-ec2.git
